@@ -1,2 +1,2 @@
-# itrodu-ao-ciencia-de-dados
+# introducao-ciencia-de-dados
 Apenas testes de aprendizado
